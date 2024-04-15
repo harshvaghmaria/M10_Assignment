@@ -9,8 +9,4 @@ Time: Utilized for introducing delays to accommodate the loading of elements.
 Pandas: Employed for data manipulation tasks and the creation of DataFrames.
 Selenium: Used for the automation of web browser interactions.
 Boto3: Facilitates interaction with Amazon Web Services (AWS) S3.
-<<<<<<< HEAD
 ChromeDriverManager: Enables the management of the Chrome WebDriver.
-=======
-ChromeDriverManager: Enables the management of the Chrome WebDriver.
->>>>>>> 25fd67c8935f58e8b8f9c59abaf845df05ab7bc9
